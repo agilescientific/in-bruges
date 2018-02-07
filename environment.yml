@@ -1,0 +1,7 @@
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - pip:
+    - bruges
+    - welly
