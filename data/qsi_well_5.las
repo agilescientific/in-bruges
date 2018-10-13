@@ -4,7 +4,6 @@ WRAP. NO  : One Line per depth Step
 ~Well Information Section
 #MNEM.UNIT                     Data                         Information
 #----------   ------------------------------------------   ----------------
-THIS IS A DUMMY HEADER ADDED BY SRB
 STRT.M                             2100.0000 : Start Depth
 STOP.M                            2300.0000 : Stop Depth
 NULL.        -999.25                        : Null Value
